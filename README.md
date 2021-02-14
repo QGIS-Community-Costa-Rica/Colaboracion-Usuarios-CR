@@ -11,6 +11,11 @@ ser de todo tipo.
 Trataremos de mantener este repositorio lo más ordenado posible, con 
 forme este crezca se añadirán secciones y demás elementos.
 
+## índice
+
+* [Legend Patch Shape](Legend_patch_shapes_Costa_Rica)
+  * Figuras de las provincias de Costa Rica para utilizar en la simbología de tus mapas
+
 ## ¿Como colaborar?
 
 Puedes escribirnos al correo info@qgiscr.org y con gusto te indicaremos

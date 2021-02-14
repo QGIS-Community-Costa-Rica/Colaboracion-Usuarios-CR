@@ -1,0 +1,3 @@
+Inspirado en el Blog:
+https://pigrecoinfinito.com/2020/04/29/come-realizzare-patch-legend-per-qgis-3-14/
+https://www.youtube.com/watch?v=WaDbM28qNVg
