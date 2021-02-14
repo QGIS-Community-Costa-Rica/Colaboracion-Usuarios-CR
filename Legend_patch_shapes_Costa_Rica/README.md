@@ -19,7 +19,9 @@ Inspirado en el Blog:
 
 ## Como usar
 
-* Paso 1: Descarga el archivo "costa_rica_limites_provinciales.xml"
+* Paso 1: Descarga el archivo "costa_rica_limites_provinciales.xml" 
+
+    [costa_rica_limites_provinciales.xml](costa_rica_limites_provinciales.xml)
   
 * Paso 2: Utiliza el administrador de estilos para importar el archivo xml
 ![Patches](img/paso1.png)
