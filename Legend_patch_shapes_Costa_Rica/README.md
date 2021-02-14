@@ -1,7 +1,7 @@
 # Legend Patches Shapes Costa Rica
 
 ## Info
-Author: Javier Chinchilla M.
+Compartido por: Javier Chinchilla M.
 
 Versión QGIS 3.14 o 3.16
 
@@ -32,11 +32,11 @@ Inspirado en el Blog:
 * Paso 4:Ya tienes importado los patch y ya puedes usarlos en la simbología de tus mapas
 ![Patches](img/paso3.png) 
 
-## Prender más
+## Aprender más
 
 [How to make Legend Patches shapes](https://www.youtube.com/watch?v=WaDbM28qNVg)
 
-### Maintainer
+## Maintainer
 Eduardo Rojas Rodriguez
 
 Contact: info@qgiscr.org
